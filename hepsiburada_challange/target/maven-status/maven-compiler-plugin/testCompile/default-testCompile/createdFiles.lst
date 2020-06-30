@@ -1,0 +1,6 @@
+hepsiburada\challange\steps\BaseStep.class
+hepsiburada\challange\steps\ApiTestSteps.class
+hepsiburada\challange\steps\HomePageStep.class
+hepsiburada\challange\steps\AccountCreationStep.class
+hepsiburada\challange\steps\AuthenticationStep.class
+hepsiburada\challange\TestRunner.class

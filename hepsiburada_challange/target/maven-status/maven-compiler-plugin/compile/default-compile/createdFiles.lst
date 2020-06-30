@@ -1,0 +1,7 @@
+hepsiburada\challange\pages\AccountCreationPage.class
+hepsiburada\challange\pages\AuthenticationPage.class
+hepsiburada\challange\pages\LoginPage.class
+hepsiburada\challange\base\ApiRequest.class
+hepsiburada\challange\base\BasePage.class
+hepsiburada\challange\pages\HomePage.class
+hepsiburada\challange\utils\DriverUtil.class

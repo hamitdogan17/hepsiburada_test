@@ -1,0 +1,3 @@
+Ürün filtrelerken her seçenegi seçtigimde sayfanin yenilenmesi ve filtrelemenin yapilmasi
+Birden çok filtre girmek istedinginde bu durum kullanicilar için sinir bozucu olabilmekte
+en azindan bir checkbox ile toplu olarak filtre seçilmesine de izin verilebilir.
